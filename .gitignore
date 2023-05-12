@@ -1,0 +1,27 @@
+# General
+.DS_Store
+
+# Xcode
+build/
+xcuserdata/
+*.mobileprovision
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Github
+*.orig
+
+# CocoaPods
+Pods/
+
+# Fastlane
+fastlane/report.xml
+fastlane/test_output
+fastlane/README.md
+
+# Temp files
+tmp/
+
+# Auto generation
+*.generated.swift
